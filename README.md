@@ -1,8 +1,6 @@
-# Pedro Frazão
+# Olá! 👋
 
-**`Bacharelando em Estatística - Universidade Federal Fluminense`**
-
-Olá, sou Pedro Frazão Dutra, tenho 21 anos e sou natural do Rio de Janeiro (Brasil). 
+Sou Pedro Frazão Dutra, tenho 21 anos e sou natural do Rio de Janeiro (Brasil). 
 
 Concluí o ensino médio no Colégio Cívico Militar Coronel PM Marcus Jardim. 
 
@@ -12,7 +10,7 @@ Gosto do que faço e também de compartilhar meus projetos e conhecimentos, isto
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias 🤖
 
 <img 
     align="left" 
