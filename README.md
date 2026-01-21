@@ -2,8 +2,6 @@
 
 Sou Pedro Frazão Dutra, natural do Rio de Janeiro (Brasil). 
 
-Concluí o ensino médio no Colégio Cívico Militar Coronel PM Marcus Jardim. 
-
 Atualmente, estou no 6º período do curso de graduação em estatística na Universidade Federal Fluminense. 
 
 Gosto do que faço e também de compartilhar meus projetos e conhecimentos, isto é o que encontrarão neste perfil.
