@@ -4,7 +4,7 @@ Sou Pedro Frazão Dutra, natural do Rio de Janeiro (Brasil).
 
 Atualmente, estou no 6º período do curso de graduação em estatística na Universidade Federal Fluminense. 
 
-Gosto do que faço e também de compartilhar meus projetos e conhecimentos, isto é o que encontrarão neste perfil.
+Gosto do que faço e também de compartilhar meus projetos e conhecimentos. Isto é o que encontrareis neste perfil.
 
 ---
 
