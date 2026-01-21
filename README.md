@@ -1,6 +1,6 @@
 # 👋 Olá! 
 
-Sou Pedro Frazão Dutra, tenho 21 anos e sou natural do Rio de Janeiro (Brasil). 
+Sou Pedro Frazão Dutra, natural do Rio de Janeiro (Brasil). 
 
 Concluí o ensino médio no Colégio Cívico Militar Coronel PM Marcus Jardim. 
 
