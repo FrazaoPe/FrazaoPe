@@ -1,14 +1,12 @@
-# 👋 Olá! 
+# 👋 Hello, I'm Pedro Frazão Dutra! 
 
-Sou Pedro Frazão Dutra, natural do Rio de Janeiro (Brasil). 
+I am an undergraduate Statistics student currently in my 6th semester at the Federal Fluminense University (UFF) in Rio de Janeiro, Brazil.
 
-Atualmente, estou no 6º período do curso de graduação em estatística na Universidade Federal Fluminense. 
-
-Gosto do que faço e também de compartilhar meus projetos e conhecimentos. Isto é o que encontrareis neste perfil.
+I deeply enjoy sharing my projects and knowledge with the community. This is what ye shall find herein.
 
 ---
 
-### 🤖 Linguagens e Tecnologias 
+### 🤖 Languages and technologies
 
 <img 
     align="left" 
