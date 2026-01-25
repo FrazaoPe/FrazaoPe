@@ -1,4 +1,4 @@
-# 👋 Hello! I am Pedro Frazão! 
+# 👋 Hi there! 
 
 I am an undergraduate Statistics student currently in my 6th semester at the Federal Fluminense University (UFF) in Rio de Janeiro, Brazil.
 
