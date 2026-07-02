@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-I am an undergraduate Statistics student currently in my 6th semester at the Federal Fluminense University (UFF) in Rio de Janeiro, Brazil.
+I am an undergraduate Statistics student at the Federal Fluminense University (UFF) in Rio de Janeiro, Brazil.
 
 I deeply enjoy sharing my projects and knowledge with the community. 
 
